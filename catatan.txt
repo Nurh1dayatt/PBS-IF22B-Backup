@@ -1,0 +1,8 @@
+FORMAT DALAM JASON
+baris dalam jason disebut pair
+field= key
+isi = value
+kurung kurawal = objek
+kurung siku = array
+meta_data = respon result
+findMany = select * from
