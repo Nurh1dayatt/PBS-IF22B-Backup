@@ -6,3 +6,5 @@ kurung kurawal = objek
 kurung siku = array
 meta_data = respon result
 findMany = select * from
+
+Penginstallan bcrypt ts
